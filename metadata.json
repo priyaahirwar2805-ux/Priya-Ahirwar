@@ -1,0 +1,6 @@
+{
+  "name": "EcoMind AI",
+  "description": "An intelligent sustainability platform and personal carbon coach that helps you analyze, reduce, and improve your carbon footprint using AI, predictive simulations, and community engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
